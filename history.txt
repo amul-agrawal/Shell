@@ -1,0 +1,5 @@
+ls
+whoami
+ls
+ls -l
+clear
